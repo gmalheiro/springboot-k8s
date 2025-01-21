@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootK8sApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootK8sApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
